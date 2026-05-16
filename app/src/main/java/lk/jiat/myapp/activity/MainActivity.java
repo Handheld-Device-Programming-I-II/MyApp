@@ -1,4 +1,6 @@
 package lk.jiat.myapp.activity;
 
-public class MainActivity {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class MainActivity extends AppCompatActivity {
 }
