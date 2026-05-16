@@ -12,6 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApp" >
 
+        <activity android:name=".activity.MainActivity">
+
+        </activity>
+
     </application>
 
 </manifest>
